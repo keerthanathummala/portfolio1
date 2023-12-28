@@ -6,12 +6,15 @@ pursuing B-Tech in upes.Student of school of computers science
 ## EXPERIENCE
 
 Technical core ACM
+
 Events core ACM
+
 Events member Avishkarnam
 
 ### CODING LANGUAGES
 ​
 C
+
 LINUX
 
 #### HOBBIES
